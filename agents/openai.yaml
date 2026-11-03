@@ -1,0 +1,4 @@
+interface:
+  display_name: "自然中文写作"
+  short_description: "按核心规则审校中文，保留事实、必要限定与自然衔接，只改明确命中的表达"
+  default_prompt: "请使用 $natural-chinese-writing 审校以下文字，保留事实、判断强度和文章框架，只输出审校后的全文。"
